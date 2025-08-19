@@ -29,7 +29,7 @@ An end-to-end business intelligence project focused on analyzing pizza sales dat
 ## Dashboard Previews
 
 ### Home Page
-![Dashboard Overview](screenshots/dashboard_preview.png)
+![Dashboard Overview](dashboard_preview.png)
 
 ### Best/Worst Sellers
-![Top/Bottom Performance](screenshots/dashboard_preview2.png)
+![Top/Bottom Performance](dashboard_preview2.png)
